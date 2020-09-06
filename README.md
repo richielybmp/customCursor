@@ -1,6 +1,4 @@
 # customCursor
- 
-
 
 <!-- 
     Thank you for reading this
@@ -30,6 +28,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 A simple cursor customization using SASS and Javascript.
+
+See it Live [here](https://richielybmp.github.io/customCursor/)
  
 ### Content
 * [Getting Started](#Getting-Started-)
@@ -54,13 +54,9 @@ $ cd customCursor
  
 #### Running
 
-To start
+Open with Live Server or simply open the index.html file on the browser
 
-```ps
 
-# Open with Live Server or simply open the index.html file on the browser
-
-```
 ### Issues 🐛
 
 #### Report
